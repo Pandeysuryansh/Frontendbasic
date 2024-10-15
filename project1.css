@@ -1,0 +1,22 @@
+.button{
+    padding: 40px;
+    margin: 30px;
+    display: inline-block;
+    border: solid black 2px;
+    cursor: pointer;
+    
+}
+#grey{
+    background-color: grey;
+}
+
+#white{
+    background-color: white;
+}
+
+#yellow{
+    background-color: yellow;
+}
+#purple{
+ background-color: purple;
+}
